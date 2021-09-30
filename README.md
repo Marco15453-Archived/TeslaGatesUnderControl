@@ -1,7 +1,7 @@
+# THIS PLUGIN HAS BEEN ARCHIVED
+
 # TeslaGatesUnderControl
 A simple plugin that lets you control tesla gates
-
-**THIS PLUGIN IS DISCONTINUED**
 
 # Commands
 Name | Permission | Description | CommandType
